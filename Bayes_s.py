@@ -9,3 +9,5 @@ class Bayes_s():
 ## update network with the training data        
     def predict(self,factor_list):
 ## create classfication raster with the factor rasters and updated network
+    def show_net(self,save = False)
+    
